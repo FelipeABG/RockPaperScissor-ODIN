@@ -10,7 +10,7 @@ The following tools have been used in the project:
 
 - [HTML](https://html.com/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Java](https://www.javascript.com)
+- [JavaScript](https://www.javascript.com)
 - [VS Code](https://code.visualstudio.com)
 
 ---
