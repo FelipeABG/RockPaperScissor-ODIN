@@ -1,4 +1,4 @@
-<h1 align="center">Odin Rock paper and scissor game</h1>
+<h1 align="center">Rock Paper and Scissors Odin Project</h1>
 
 <p align="center">This is a web project made with HTML, CSS and JavaScript for studying purposes</p>
 
@@ -14,7 +14,11 @@ The following tools have been used in the project:
 - [VS Code](https://code.visualstudio.com)
 
 ---
+### Project directions:
+The following directions were used to create the project.
 
+- [Odin Calculator Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+---
 ### Author
 
 Made by Felipe Augusto 
