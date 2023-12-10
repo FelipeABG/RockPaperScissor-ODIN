@@ -25,6 +25,6 @@ Made by Felipe Augusto
 
 ---
 
-#### [Live Server](https://felipeabg.github.io/RockPaperScissor-ODIN/)
+#### [Live Server](https://felipeabg.github.io/rock-paper-scissors)
 
  
